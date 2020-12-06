@@ -1,0 +1,1 @@
+https://duncanhunter.gitbook.io/enterprise-angular-applications-with-ngrx-and-nx/introduction/9-route-guards-and-products-lib
